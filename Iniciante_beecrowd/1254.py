@@ -30,3 +30,4 @@ while True:
         print(textoFinal[0:len(textoFinal) - 1])
     except EOFError:
         break
+    

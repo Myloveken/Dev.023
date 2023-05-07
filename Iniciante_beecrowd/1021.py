@@ -20,3 +20,4 @@ for moeda in moedas:
     md = moeda%100
     print('{} moeda(s) de R$ {}.{:02}'.format(qtde, m, md))
     centavos = centavos%moeda
+    

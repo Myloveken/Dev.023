@@ -15,3 +15,4 @@ while True:
         a = b
     c = [x for x in c if x not in a]
     print(len(c))
+    

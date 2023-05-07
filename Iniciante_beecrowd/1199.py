@@ -17,3 +17,4 @@ while z==True:
             pass
         else:
             print('0x{:2}'.format(calchex(y).upper()[2:]))
+            

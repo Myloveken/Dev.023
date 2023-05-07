@@ -14,3 +14,4 @@ for teste in range(testes):
     else:
       resposta += numero
   print(resposta)
+  
